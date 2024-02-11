@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [spend-trail](https://spendtrail.vercel.app/)
 
-- 👨‍💻 Some of my projects are available at [lisette.dev](lisette.dev)
+- 👨‍💻 Some of my projects are available at [lisette.dev](https://lisette.dev)
   
 - 🔧 Currently exploring the endless possibilities of Nuxt.js to streamline development workflows and enhance project efficiency.
 
@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **contact@lisette.dev**
 
-- 📄 Know more about my experience [lisette.dev/resume.pdf](lisette.dev/resume.pdf)
+- 📄 Know more about my experience [lisette.dev/resume.pdf](https://lisette.dev/resume.pdf)
