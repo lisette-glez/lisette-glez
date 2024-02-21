@@ -13,4 +13,4 @@
 
 - 📫 How to reach me **contact@lisette.dev**
 
-- 📄 Know more about my experience [lisette.dev/resume.pdf](https://lisette.dev/resume.pdf)
+- 📄 Know more about my experience [lisette.dev/resume.pdf](https://lisette.dev/Resume.pdf)
