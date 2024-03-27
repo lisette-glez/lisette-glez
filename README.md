@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Lisette Gonzalez 👋</h1>
-<h3 align="left">A passionate Front-End Developer based in US</h3>
+<h3 align="left">A passionate Full-Stack Developer based in US</h3>
 
 - 🔭 I’m currently working on [spend-trail](https://spendtrail.vercel.app/)
 
